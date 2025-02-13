@@ -7,6 +7,7 @@ The goal is to develop a predictive model that classifies individuals into obesi
 ## What is the data used in the project?
 The dataset in the project is from the UCI repository **repository link [UCI](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition**.
 The data includes information about key features related to obesity, such as:
+The individuals in this dataset are from Mexico, Peru and Columbia.
 
 -**Age**: The age of the individual.
 -**Meals Day**:How many meals the individual eats
